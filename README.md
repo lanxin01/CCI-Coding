@@ -9,7 +9,7 @@ Project Description
 
    Idea Realization: create elements -> use array variables 
    
-   Create a 2D scene, function and object in the project, and then need to color the object through GLSL ES; then set the color of the element (four colors), the      rotation speed, swirls, width and height. It can control the rotation speed of objects in the scene and adjust it to the most comfortable-looking state. Not only    that, but you can also change the color and spacing of these elements to achieve the desired effect.
+   Create a 2D scene, function and object in the project, and then set the color of the element (four colors), the      rotation speed, swirls, width and height. It can control the rotation speed of objects in the scene and adjust it to the most comfortable-looking state. Not only    that, but you can also change the color and spacing of these elements to achieve the desired effect.
   
    Request Animation Frame
    
